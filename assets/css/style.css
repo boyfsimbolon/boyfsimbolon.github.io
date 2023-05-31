@@ -357,9 +357,9 @@ background: linear-gradient(201deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba
   font-size: var(--fs-6);
   font-weight: var(--fw-10);
   width: 150px;
-  margin-bottom: 4px;
+  margin-bottom: 10px;
   border-radius: 15px;
-  padding: 10px;
+
 }
 
 .info_more-btn {
@@ -424,7 +424,7 @@ background: linear-gradient(201deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba
 }
 
 .contact-title {
-  color: var(--bg-gradient-onyx-red-100);
+  color: rgb(10, 244, 6);
   font-size: var(--fs-8);
   text-transform: uppercase;
   margin-bottom: 2px;

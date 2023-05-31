@@ -125,7 +125,7 @@ const form = document.querySelector('[data-form]');
             const message = form.querySelector('[name="message"]').value;
         
             const encodedMessage = encodeURIComponent(`Full Name: ${fullname}\nEmail: ${email}\nMessage: ${message}`);
-            const whatsappURL = `https://api.whatsapp.com/send?phone=+628129927644&text=${encodedMessage}`;
+            const whatsappURL = `https://api.whatsapp.com/send?phone=+628388336355&text=${encodedMessage}`;
         
             window.open(whatsappURL, 'encodedMessage');
           });
